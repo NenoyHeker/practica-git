@@ -1,0 +1,4 @@
+Nombre: Gonzalez Guerrero Daniel
+Edad: 21
+Genero: Masculino
+Fecha de nacimiento: 04 / 05 / 2003
